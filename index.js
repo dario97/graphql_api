@@ -6,7 +6,7 @@ const grades = require("./grades.json");
 const courses = require("./courses.json");
 const StudentType = require("./types/StudentType");
 const CourseType = require("./types/CourseType");
-const GradeType = require("./types/GradeTyoe");
+const GradeType = require("./types/GradeType");
 
 const {
   GraphQLSchema,
