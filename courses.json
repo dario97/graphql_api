@@ -1,0 +1,13 @@
+[
+  {
+    "id": 1,
+    "name": "HTML Course",
+    "description": "Curso de HTML básico"
+  },
+
+  {
+    "id": 2,
+    "name": "CSS Course",
+    "description": "Curso de CSS básico"
+  }
+]
