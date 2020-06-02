@@ -4,8 +4,8 @@ const {
   GraphQLInt,
   GraphQLNonNull,
 } = require("graphql");
-
 const CourseType = require("./CourseType");
+const courses = require("../courses.json");
 
 const StudentType = new GraphQLObjectType({
   name: "Student",

@@ -7,6 +7,8 @@ const {
 
 const StudentType = require("./StudentType");
 const CourseType = require("./CourseType");
+const students = require("../students.json");
+const courses = require("../courses.json");
 
 const GradeType = new GraphQLObjectType({
   name: "Grade",
